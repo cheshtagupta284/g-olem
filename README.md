@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g-olem
 - 👀 I’m interested in Web and API development / Deep learning.
-- 🌱 I’m currently learning React and Flask.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on WEB projects.
 - 📫 How to reach me . . . Mail me!
 
